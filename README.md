@@ -53,7 +53,7 @@ By default, it also creates `libdramsim3.so` shared library in the project root 
 ./build/dramsim3main configs/DDR4_8Gb_x8_3200.ini -c 100000 -t sample_trace.txt
 
 # Running with gem5
---mem-type=dramsim3 --dramsim3-ini=configs/DDR4_4Gb_x4_2133.ini
+--mem-type=DRAMsim3 --dramsim3-ini=ext/dramsim3/DRAMsim3/configs/DDR4_4Gb_x4_2133.ini
 
 ```
 
