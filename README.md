@@ -158,4 +158,4 @@ other Verilog simulators may require a slightly different format.
 
 
 
-##Include CiM capabilites to the simulator
+## Include CiM capabilites to the simulator
