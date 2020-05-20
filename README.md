@@ -155,3 +155,7 @@ other Verilog simulators may require a slightly different format.
 
 [6] Li, S. (2019). Scalable and Accurate Memory System Simulation (Doctoral dissertation).
 
+
+
+
+##Include CiM capabilites to the simulator
